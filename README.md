@@ -5,4 +5,7 @@ An IoT system using ESP32 that stores and retrieves WiFi and user-defined creden
 ![A website interface to update text in real-time database](/assets/images/interface.png)
 
 ## Initial OLED Display
-![A website interface to update text in real-time database](/assets/images/initial.png)
+![The OLED display that shows the text extracted from the real-time database](/assets/images/initial.png)
+
+## Usage Demonstration
+![Demonstration video](/assets/videos/demo.mp4)
