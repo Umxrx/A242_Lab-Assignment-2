@@ -9,10 +9,10 @@
 #define WIFI_PASSWORD ""
 
 // Replace with your Firebase project credentials
-#define API_KEY "AIzaSyD2K2HpWkqgmySU3iqiGbgFWJBkKtIHY_s"
-#define DATABASE_URL "https://iot-project-f46ce-default-rtdb.asia-southeast1.firebasedatabase.app/"
-#define USER_EMAIL "umair1211@gmail.com"
-#define USER_PASSWORD "Um@ir1211"
+#define API_KEY "MY_API_KEY"
+#define DATABASE_URL "https://my-project-id-default-rtdb.asia-southeast1.firebasedatabase.app/"
+#define USER_EMAIL "email@example.com"
+#define USER_PASSWORD "my_password"
 
 // OLED display settings
 #define SCREEN_WIDTH 128
