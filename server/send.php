@@ -2,7 +2,7 @@
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $message = $_POST["message"];
 
-    $url = "https://iot-project-f46ce-default-rtdb.asia-southeast1.firebasedatabase.app/oled_text.json";
+    $url = "https://my-project-id-default-rtdb.asia-southeast1.firebasedatabase.app/oled_text.json";
 
     $data = json_encode($message);
 
