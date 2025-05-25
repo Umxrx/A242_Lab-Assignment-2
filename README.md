@@ -8,4 +8,4 @@ An IoT system using ESP32 that stores and retrieves WiFi and user-defined creden
 ![The OLED display that shows the text extracted from the real-time database](/assets/images/initial.png)
 
 ## Usage Demonstration
-![Demonstration video](/assets/videos/demo.mp4)
+https://github.com/user-attachments/assets/806d168d-cac7-44d4-9a6b-2e6ff2a3766c
